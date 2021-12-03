@@ -5,7 +5,7 @@ The analysis was done using Python. The associated pdf report can be found in th
 
 # Report
 
-The report is 
+The report is [this](https://github.com/aryansi225/Cyclistic-Data-Analysis-Case-Study/blob/main/Cyclistic%20Case%20Study%20Report.pdf).
 
 # Dependencies
 Python3, Pandas, Numpy, Seaborn
